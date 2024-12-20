@@ -29,9 +29,9 @@
 ## Description
 
 The BikeStations iOS App is a SwiftUI-based application that provides a seamless experience for locating and viewing bike stations. 
-It requests location permissions to determine the user's current position and accesses real-time data from the CityBik API. 
+It requests location permissions to determine the user's current position and accesses real-time data from the API. 
 The app utilizes CoreLocation to sort bike stations dynamically by proximity or alphabetically when the location is unavailable. 
-Bike station details, such as name, available bikes, and empty slots, are displayed in a interactive list. 
+It showcases Bike Station details, such as name, available bikes, and empty slots, displayed in an interactive list.  
 The app leverages CoreData for efficient offline storage of station data and async/await for smooth asynchronous network operations. 
 Selecting a station from the list redirects users to its location on Maps for easy navigation. 
 Built with Clean Architecture and MVVM, the app ensures scalability, maintainability, and testability. 
