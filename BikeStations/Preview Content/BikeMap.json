@@ -1,0 +1,78 @@
+{
+	
+	"network": {
+		
+		"id": "wienmobil-rad",
+		"name": "WienMobil Rad",
+		
+		"location": {
+			"latitude": 48.2081743,
+			"longitude": 16.3738189,
+			"city": "Wien",
+			"country": "AT"
+		},
+		
+		"href": "/v2/networks/wienmobil-rad",
+		"company": [
+			"Nextbike GmbH"
+		],
+		"system": "Nextbike",
+		"stations": [
+			{
+				"id": "006b4278fbb5ead1ad815938cd32643b",
+				"name": "Georg-Ehrlich-Weg",
+				"latitude": 48.261666,
+				"longitude": 16.440139,
+				"timestamp": "2024-09-17T11:31:15.508965Z",
+				"free_bikes": 8,
+				"empty_slots": null,
+				"extra": {
+					"uid": "115738177",
+					"number": "32237",
+					"bike_uids": [
+						"345304",
+						"345933",
+						"345668",
+						"346327",
+						"346971",
+						"346563",
+						"347449",
+						"347036"
+					]
+				}
+			},
+			{
+				"id": "ffe5521d03f1fbad3b512718c7680c55",
+				"name": "Mittersteig",
+				"latitude": 48.189735,
+				"longitude": 16.361331,
+				"timestamp": "2024-09-17T11:31:15.502834Z",
+				"free_bikes": 15,
+				"empty_slots": 8,
+				"extra": {
+					"uid": "68583190",
+					"number": "32015",
+					"slots": 23,
+					"bike_uids": [
+						"345269",
+						"345251",
+						"345063",
+						"345817",
+						"345682",
+						"346822",
+						"346709",
+						"346509",
+						"347260",
+						"347876",
+						"347835",
+						"347533",
+						"348495",
+						"348357",
+						"348044"
+					]
+				}
+			}
+		]
+	}
+}
+
